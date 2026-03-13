@@ -1,0 +1,24 @@
+{
+  "number": "",
+  "date": "",
+  "due_date": "",
+  "payment_terms": "",
+  "po_number": "",
+  "from": "",
+  "bill_to_name": "",
+  "bill_to_addr": "",
+  "ship_to_name": "",
+  "ship_to_addr": "",
+  "items": [
+    {
+      "description": "",
+      "quantity": 1,
+      "rate": 0,
+      "amount": 0
+    }
+  ],
+  "notes": "",
+  "terms": "",
+  "tax_rate": 0,
+  "amount_paid": 0
+}
